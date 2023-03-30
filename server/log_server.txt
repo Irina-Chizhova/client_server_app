@@ -1,0 +1,6 @@
+30.2.2023 23:35:31: No arguments cmd
+30.2.2023 23:37:18: starting session successful
+30.2.2023 23:37:18: successful starting
+30.2.2023 23:37:18: successful reading
+30.2.2023 23:37:18: successful writing
+30.2.2023 23:37:18: 
